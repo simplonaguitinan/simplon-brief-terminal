@@ -43,3 +43,8 @@ Pour définir le shell à utiliser, répondre `/bin/zsh`. Fermer puis ouvrir à 
 
 - `cat fichier` : Affiche le contenu d'un fichier.
 - `more fichier` ou `less fichier` : Permet de parcourir le contenu d'un fichier page par page.
+
+## Gestion des autorisations
+
+- `chmod` : Modifie les autorisations d'un fichier ou d'un répertoire.
+- `chown` : Modifie le propriétaire d'un fichier ou d'un répertoire.
