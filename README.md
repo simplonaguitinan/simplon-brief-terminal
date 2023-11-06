@@ -17,3 +17,8 @@ Brief
 - `mv source destination` : Déplace ou renomme des fichiers ou des répertoires.
 - `rm fichier` : Supprime un fichier (avec précaution).
 - `rm -r dossier` : Supprime un répertoire et son contenu (avec précaution).
+
+## Affichage du contenu de fichiers
+
+- `cat fichier` : Affiche le contenu d'un fichier.
+- `more fichier` ou `less fichier` : Permet de parcourir le contenu d'un fichier page par page.
